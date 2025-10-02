@@ -39,3 +39,6 @@ def pendu():
         print(f"Votre plus haut score est {score} vie(s) restante(s)")
 
 pendu()
+
+
+#yun big boss uwu itadakimasu
